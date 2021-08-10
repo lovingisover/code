@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "树的子结构", "树的子结构\树的子结构.vcxproj", "{38A91C2F-5D9D-4BAE-98B8-069121F48E35}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "暑假作业", "暑假作业\暑假作业.vcxproj", "{34E19FE0-4B99-430F-B837-49C8743B2F59}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{38A91C2F-5D9D-4BAE-98B8-069121F48E35}.Debug|Win32.ActiveCfg = Debug|Win32
-		{38A91C2F-5D9D-4BAE-98B8-069121F48E35}.Debug|Win32.Build.0 = Debug|Win32
-		{38A91C2F-5D9D-4BAE-98B8-069121F48E35}.Release|Win32.ActiveCfg = Release|Win32
-		{38A91C2F-5D9D-4BAE-98B8-069121F48E35}.Release|Win32.Build.0 = Release|Win32
+		{34E19FE0-4B99-430F-B837-49C8743B2F59}.Debug|Win32.ActiveCfg = Debug|Win32
+		{34E19FE0-4B99-430F-B837-49C8743B2F59}.Debug|Win32.Build.0 = Debug|Win32
+		{34E19FE0-4B99-430F-B837-49C8743B2F59}.Release|Win32.ActiveCfg = Release|Win32
+		{34E19FE0-4B99-430F-B837-49C8743B2F59}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
